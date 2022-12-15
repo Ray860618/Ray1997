@@ -1,0 +1,3 @@
+<body style="background-color: brown;"></body>
+<h1 style = "text-shadow : 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em darkblue">00000</h1>
+linear-gradient(100deg, #EADEDB 0%, #BC70A4 50%, #BFD641 90%)
